@@ -1,4 +1,5 @@
 # XOcalcMoblie
 
-I made a okay is calculator for Crossout items and now I want to make it a moblie app for android.
-The project is mostly complete but if bugs are found or new items are added I will update it.
+This is an item cost calculator for CrossOut for android. CrossOut items are notoriously hard to calculate their true value so I made a calculator to solve that.
+
+The project is no longer being updated as I no longer play CrossOut.
